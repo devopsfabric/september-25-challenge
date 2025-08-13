@@ -1,0 +1,106 @@
+commit 1f8a9b2a73d4c0b92f4c0e7a2a8e4d1f8a9c2e6b (HEAD -> main, origin/main)
+Merge: 2b7c3de 3c4d5e6
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Wed Aug 13 15:42:17 2025 +0300
+
+    Merge branch 'feature/PROJ-145-header-refactor'
+
+commit 2b7c3de4d8f91e2a4b3f98e7c6d5b4c3d2e1f0a9 (feature/PROJ-145-header-refactor)
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Tue Aug 12 09:18:55 2025 +0300
+
+    PROJ-145: Refactor header component for new design
+
+commit 3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d
+Merge: 8a9b7c1 7d6e5a4
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Mon Aug 11 17:26:33 2025 +0300
+
+    Merge branch 'feature/PROJ-142-lazy-load-images'
+
+commit 8a9b7c123d4e5f678a9b0c1d2e3f4a5b6c7d8e9f
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Mon Aug 11 10:15:02 2025 +0300
+
+    PROJ-142: Implement lazy loading for images on product page
+
+commit 7d6e5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Sun Aug 10 16:04:44 2025 +0300
+
+    PROJ-150: Fix footer links alignment on mobile
+
+commit b3a2f91e0d9c8b7a6f5e4d3c2b1a0f9e8d7c6b5a
+Merge: c4d2e5f e5f7a2b
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Sat Aug 9 11:47:59 2025 +0300
+
+    Merge branch 'feature/PROJ-148-improve-bundle-split'
+
+commit c4d2e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Sat Aug 9 09:03:22 2025 +0300
+
+    PROJ-148: Configure webpack splitChunks for better caching
+
+commit e5f7a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Fri Aug 8 18:40:11 2025 +0300
+
+    PROJ-152: Add dark mode toggle in settings
+
+commit 5b6c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Fri Aug 8 09:52:38 2025 +0300
+
+    PROJ-147: Update hero banner text and background image
+
+commit 4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e
+Merge: 9e8b7c2 0a1b2c3
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Thu Aug 7 19:14:26 2025 +0300
+
+    Merge branch 'hotfix/PROJ-149-css-conflict'
+
+commit 9e8b7c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Thu Aug 7 17:56:03 2025 +0300
+
+    PROJ-149: Resolve CSS conflict between navbar and modal
+
+commit 0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Wed Aug 6 15:33:19 2025 +0300
+
+    PROJ-151: Fix console warnings for deprecated React methods
+
+commit 1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Tue Aug 5 12:45:28 2025 +0300
+
+    PROJ-153: Update package.json dependencies to latest
+
+commit 2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Mon Aug 4 10:17:40 2025 +0300
+
+    PROJ-146: Implement skeleton loaders for product cards
+
+commit 6f7e8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f
+Merge: 7b8c9d0 3a4b5c6
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Sun Aug 3 14:59:55 2025 +0300
+
+    Merge branch 'feature/PROJ-144-resolve-merge-conflict'
+
+commit 7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c
+Author: Schegol Scheglovich <scheglovich@example.com>
+Date:   Sun Aug 3 12:14:37 2025 +0300
+
+    PROJ-144: Resolve merge conflict in App.jsx after feature merge
+
+commit 3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
+Author: Frontender Frontendovich <frontendovich@example.com>
+Date:   Sat Aug 2 16:55:11 2025 +0300
+
+    PROJ-154: Minor UI polish for checkout page buttons
