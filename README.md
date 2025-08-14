@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-     <a href="=https://www.youtube.com/@devopsfactory">
+     <a href="https://www.youtube.com/@devopsfactory">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge" alt=""/>
-   <a href="=https://t.me/@devopsfactory">
+   <a href="https://t.me/@devopsfactory">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt=""/>
 </div>
 
